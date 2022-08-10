@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1"
+  },
+  "name": "cubie",
+  "version": "0.0.1",
+  "description": "A Utility Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjotrekdev/cubie.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "pjotrekdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjotrekdev/cubie/issues"
+  },
+  "homepage": "https://github.com/pjotrekdev/cubie#readme"
+}
